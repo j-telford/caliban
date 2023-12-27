@@ -1,0 +1,6 @@
+{
+  "python.formatting.provider": "black",
+  "editor.formatOnSave": true,
+  "python.analysis.autoImportCompletions": true,
+  "python.analysis.typeCheckingMode": "basic"
+}
